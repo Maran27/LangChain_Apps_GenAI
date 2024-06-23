@@ -14,3 +14,7 @@ faiss-cpu
 arxiv
 wikipedia
 langchainhub
+groq
+langchain-groq
+beautifulsoup4
+sentence_transformers
