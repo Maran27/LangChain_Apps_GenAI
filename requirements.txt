@@ -18,3 +18,5 @@ groq
 langchain-groq
 beautifulsoup4
 sentence_transformers
+langchain-objectbox
+langchain-huggingface
